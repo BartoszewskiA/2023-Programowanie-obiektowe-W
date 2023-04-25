@@ -76,7 +76,6 @@ public:
         return Prostokat::getPole() * h;
     }
 };
-
 double main()
 {
     Punkt *p1 = new Punkt(20, 30);
